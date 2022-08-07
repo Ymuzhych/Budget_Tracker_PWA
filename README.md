@@ -33,7 +33,7 @@ Budget Tracker is a progressive web application that allows users to track their
     - npm start
     
 ```
- 
+ ![screenshot](Screenshot.png)
 
 ## License Details: 
 
@@ -49,5 +49,5 @@ Budget Tracker is a progressive web application that allows users to track their
 https://github.com/Ymuzhych 
 
  Email me at:  myuliia2018@gmail.com  
- 
+
 Questions?
